@@ -1,3 +1,5 @@
+**PLEASE FEEL FREE TO COMMENT AND TELL ME WHAT I MESSED UP OR HOW I CAN IMPROVE**
+
 I did a deep dive into the word ´shill´ to see if I could find anything cool about its use and meaning! I was presently surprised!
 
 A couple things to note - YOU NEED TO USE YOUR OWNER PRAW KEYS! 
