@@ -14,6 +14,6 @@ Cryptography + Currency = Cryptocurrency
 For Example:
 Shit + coin = shitcoin (no blending going here)
 
-So I found a found a bunch of examples of portmanteaus in the wild (read the internet)! Then I wrote a quick python script to see what portmanteaus a computer might come up with! 
+So I found a bunch of examples of portmanteaus in the wild (read the internet)! Then I wrote a quick python script to see what portmanteaus a computer might come up with! 
 
 Some of them are pretty funny so I hope you enjoy!
