@@ -5,8 +5,8 @@ People in the crypto space are super creative... and believe it or not - super f
 This manifests itself it the use of *portmanteaus* (on a basic level - these are blend words)!
 
 For example:
-Breakfast + Lunch = Brunch
-Spook + Fork = Spork
+Breakfast + Lunch = Brunch,
+Spook + Fork = Spork,
 Cryptography + Currency = Cryptocurrency
 
 **IMPORTANTLY** these are different from compound words (two words combined into one)
