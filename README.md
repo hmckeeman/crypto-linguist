@@ -1,28 +1,20 @@
+__*WELCOME FELLOW CRYPTO ENTHUSIAST, LINGUISTS, CREATIVES, ANIMAL LOVERS AND THOSE OF THE LIKE!*__
 ---
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-__*WELCOME FELLOW CRYPTO ENTHUSIAST, LINGUISTS, CREATIVES, ANIMAL LOVERS AND THOSE OF THE LIKE!*__
-
 _____
 ___
-___
-
----
 
 #  **Crypto-Linguist** 8-)
-## This repository leverages basic coding and databases in order to explore the ever changing language of the cryptorealm/cryptosphere/cryptoverse!
+### This repository leverages basic coding and databases in order to explore the ever changing language of the cryptorealm/cryptosphere/cryptoverse!
 ___
-___
-___
-___
-## This repository takes the perspective of a descriptivist (a linguist who is interested in **how people acutally use langauge** - not how they should use language)
-___
+### This repository takes the perspective of a descriptivist (a linguist who is interested in **how people acutally use language** - not how they should use language)
 ___
 ___
 #### **Sorry but there are rules**:
-**1.)** Anyone can contribute or comment - but be exceedingly kind to each other!
+**1.)** Anyone can contribute or comment - but be exceedingly kind to each other! (the main branch is protected)
 
 **2.)** As Descriptivists we report on actual language - which sometimes may be inappropriate. Please do so with maturity and without opinion (we are a-political).
 
@@ -33,14 +25,12 @@ ___
 
 ---
 
-***
 
 
 ## The Importance of Privacy
 Keeping in line with crypto values: **KEEP ALL OF YOUR PRIVATE INFORMATION AS EXACTLY THAT - PRIVATE!!!** 
 
 We do not want to know your API keys, seed phrase, or anything like that!!
-___
 ___
 ___
 
