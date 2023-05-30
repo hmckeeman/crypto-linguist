@@ -1,5 +1,5 @@
 tokenomics = token + economics
-hashimoto = hash + nakamoto
+hashimoto = hash + shift + modulo (http://diyhpl.us/~bryan/papers2/bitcoin/meh/hashimoto.pdf)
 shapella = shanghai + capella
 dancun = deneb + cancun
 dapps = decentralized + applications
